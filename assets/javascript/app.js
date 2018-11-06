@@ -63,7 +63,7 @@ var app = {
                 comment = "Correct!";
                 app.true_cnt++;
             }else{
-                comment = "Your were close, <span>" + app.ans_ids[correct_ans] + "</span> is the correct option!";
+                comment = "You were close, <span>" + app.ans_ids[correct_ans] + "</span> is the correct option!";
                 $("#"+app.ans_ids[user_ans]).attr("class", "answer false-answer");
                 app.false_cnt++;
             }
