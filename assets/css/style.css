@@ -1,13 +1,13 @@
 body{
     font-family: Georgia, Times, "Times New Roman", serif;
-    background-image: url("./../images/background3.jpg");
+    background-image: url("./../images/background.jpg");
     background-repeat: repeat;
     background-color: #777777; 
     text-align: center;
     opacity: 0.95;
 }
 #header{
-    background-image: url("./../images/TriviaNight.jpg");
+    background-image: url("./../images/trivia.jpg");
     background-repeat: no-repeat;
     background-color: #777777;
     background-position-x: -50px;
